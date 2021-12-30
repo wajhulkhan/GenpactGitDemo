@@ -1,1 +1,2 @@
 I am in file 8..
+hi this is diff command
